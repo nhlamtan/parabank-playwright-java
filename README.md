@@ -1,0 +1,1 @@
+# ParaBank E2E Testing Project — Manual to Automation
